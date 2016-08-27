@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <!-- Firebase Auth -->
+    <color name="signed_in">#3B5323</color>
+    <color name="signed_out">#7f0000</color>
+
+    <!-- Nessie -->
+    <color name="nessie_light_green">#CCFFCC</color>
+</resources>
