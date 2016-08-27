@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:padding="16dp">
+
+    <EditText
+        android:id="@+id/create_customer_account_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Account name"/>
+
+    <EditText
+        android:id="@+id/create_customer_balance"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="12dp"
+        android:hint="Account balance"
+        android:inputType="numberDecimal"/>
+
+    <Button
+        android:id="@+id/create_customer_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:background="@color/colorPrimary"
+        android:textColor="@android:color/white"
+        android:text="Create account"/>
+
+</LinearLayout>

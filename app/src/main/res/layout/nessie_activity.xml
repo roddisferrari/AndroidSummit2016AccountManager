@@ -9,7 +9,7 @@
                   android:padding="20dp">
 
         <Button
-                android:id="@+id/nessie_customers_button"
+                android:id="@+id/nessie_create_customer"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_gravity="center_horizontal"

@@ -32,6 +32,8 @@
         </activity>
 
 
+        <activity android:name=".nessie.NessieManageAccountActivity" />
+
         <!-- ***** Nessie Activity ***** -->
 
         <activity android:name=".nessie.NessieActivity" />
