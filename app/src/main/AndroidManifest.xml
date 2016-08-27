@@ -24,7 +24,7 @@
                  android:supportsRtl="true"
                  android:theme="@style/AppTheme">
 
-        <activity android:name=".apimenu.ApiMenuActivity" >
+        <activity android:name=".nessie.NessieActivity" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
                 <category android:name="android.intent.category.LAUNCHER" />
@@ -36,7 +36,7 @@
 
         <!-- ***** Nessie Activity ***** -->
 
-        <activity android:name=".nessie.NessieActivity" />
+
         <activity android:name=".nessie.NessieGetCustomersActivity" />
         <activity android:name=".nessie.NessieCreateDepositActivity" />
 

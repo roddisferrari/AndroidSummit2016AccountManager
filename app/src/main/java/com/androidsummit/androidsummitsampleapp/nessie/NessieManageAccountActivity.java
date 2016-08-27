@@ -37,7 +37,7 @@ public class NessieManageAccountActivity extends AppCompatActivity {
     private Button addPurchaseButton;
 
 
-    private EditText purchaseMErchanID;
+    //private EditText purchaseMerchanID;
     private EditText purchaseAmount;
     private EditText purchaseDescription;
 
@@ -68,7 +68,7 @@ public class NessieManageAccountActivity extends AppCompatActivity {
         addDepositButton = (Button) findViewById(R.id.add_deposit_button);
         addPurchaseButton = (Button) findViewById(R.id.add_purchase_button);
 
-        purchaseMErchanID = (EditText) findViewById(R.id.purchase_merchant_id);
+        //purchaseMerchanID = (EditText) findViewById(R.id.purchase_merchant_id);
         purchaseAmount = (EditText) findViewById(R.id.purchase_amount);
         purchaseDescription = (EditText) findViewById(R.id.purchase_description);
 

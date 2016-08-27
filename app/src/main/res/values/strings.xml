@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">AndroidSummitSampleApp</string>
+    <string name="app_name">Save Wise Manager</string>
 
     <!-- API Menu Item Titles -->
     <string name="nessie_title">Nessie</string>
