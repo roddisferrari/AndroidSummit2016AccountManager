@@ -6,6 +6,6 @@ package com.androidsummit.androidsummitsampleapp;
 public class Constants {
 
     public final static String CUSTOMER_ID = "57c1ac236f20bdf9539f9387";
-    public static String ACCOUNT_ID = "57c1bad56f20bdf9539f938f";
+    public static String ACCOUNT_ID = "57c1e2796f20bdf9539f939e";
 
 }
